@@ -1,0 +1,19 @@
+{
+  "name": "medilab2",
+  "version": "1.0.0",
+  "description": "Clinica Marista",
+  "main": "gen_validatorv31.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delubiod/clinicamarista.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delubiod/clinicamarista/issues"
+  },
+  "homepage": "https://github.com/delubiod/clinicamarista#readme"
+}
