@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Allow: /sitemap.htm
 Sitemap: http://www.centromedicomarista.com/sitemap.xml
+
+Sitemap: https://online.webceo.com/submission/smaps/1a1e4ebd.xml.gz
